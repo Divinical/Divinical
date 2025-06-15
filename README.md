@@ -22,14 +22,5 @@ No fluff. No startup noise. Just code forged under pressure.
 
 Built from burnout. Forged for battle.
 
-📫 Connect With Me
-🌐 Live Tools and Site
-
-⚒️ Fiverr – React Sites That Hit Hard
-
-📦 Gumroad – Free and Paid Tools
-
-🧠 X Feed – Behind the Builds
-
 ⚠️ This repo isn’t a resume
 It’s what survival looks like when you don’t quit
