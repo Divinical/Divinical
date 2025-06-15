@@ -1,47 +1,35 @@
-# 👋 Welcome to BenWritesHUB
+👋 Welcome to ForgeHeart
+I’m Ben — a solo founder forging tools in fire, not templates.
+Every repo here was built broke. Built fast. Built to survive.
 
-**I'm Ben — a builder, writer, and founder forging tools for survival and storytelling.**  
-Every project I launch comes from the edge — built not just to function, but to *free*.
+🔧 Currently Building
+🧮 BurnRate
+Track your survival runway in minutes.
+A solo finance tool for founders with no cushion. Enter your cash, calculate your time, breathe.
 
----
+🧠 ForgeBoard (in dev)
+Visual chaos-to-clarity OS for scattered minds.
+Capture thoughts like sparks. Drag, group, burn, or freeze them into clarity.
 
-## 🔧 Currently Building
+⚔️ OathBot Core
+Discord-based productivity bot.
+Track daily focus, earn XP, and fight burnout in real-time inside your server.
 
-### 🛠️ [OpsRelay](https://github.com/Divinical/opsrelay)  
-**Digital job reporting made simple.**  
-Built for field crews replacing paper reports with clean, mobile-first checklists and instant PDF delivery. No more chasing handwritten forms.
+💡 Why I'm Here
+I’m not a startup.
+I’m a one-man forge — building the tools I wish I had when I was broke, lost, and burned out.
+If they help you too? Even better.
 
-### 🧬 [Unchained Bio Rewriter](https://github.com/Divinical/bio-rewriter)  
-**AI-powered identity restoration.**  
-Designed to help freelancers, creators, and survivors reframe their story with clarity and fire.
+“Built from burnout. Forged for battle.”
 
-### ⚔️ [War Cry Letter](https://www.fiverr.com/s/Q7zNqNy)  
-**Emotional copy that breaks through.**  
-A writing service for those who’ve been underestimated.  
-Give me your pain — I’ll turn it into a weapon.
+📫 Connect with Me
+🌐 Live Tools + Site
 
----
+🧰 Fiverr – React Site Builds
 
-## 💡 Why I'm Here
+🪓 Gumroad – Free + Paid Tools
 
-I’m not just learning to code — I’m rebuilding from the ground up.  
-Every line of code I write, every tool I ship, is part of a bigger mission:
+🧠 X Feed – Behind the Builds
 
-> **“Forged. Unchained. Built for Hope.”**
-
-This is what survival looks like — in repo form.
-
----
-
-## 📫 Connect with me
-
-- 🌐 [Portfolio Site](https://divinical.github.io/benwrites-hub)  
-- ✍️ [Fiverr Gigs](https://www.fiverr.com/benwriteshub)  
-- 📦 [Gumroad Products](https://benwriteshub.gumroad.com)
-
----
-
-### ⚠️ This isn’t just a profile.
-It’s a lifeline. A warning. And a roadmap.
-
----
+⚠️ This isn’t a GitHub profile.
+It’s the aftermath of a man who kept building.
