@@ -1,35 +1,35 @@
 👋 Welcome to ForgeHeart
-I’m Ben — a solo founder forging tools in fire, not templates.
-Every repo here was built broke. Built fast. Built to survive.
+I’m Ben. Builder. Survivor. One-man forge.
+Every repo here was built fast, built raw, and built to outlast the fire.
 
-🔧 Currently Building
+🔧 What I'm Building
 🧮 BurnRate
-Track your survival runway in minutes.
-A solo finance tool for founders with no cushion. Enter your cash, calculate your time, breathe.
+Track your survival runway in minutes
+A solo finance tool for founders without fallback. Enter your numbers, get clarity, act before it's too late.
 
-🧠 ForgeBoard (in dev)
-Visual chaos-to-clarity OS for scattered minds.
-Capture thoughts like sparks. Drag, group, burn, or freeze them into clarity.
+🧠 ForgeBoard (in development)
+Chaos-to-clarity OS for scattered minds
+Capture thoughts as sparks. Drag, stack, burn, or freeze them. Designed for creators in the fog.
 
 ⚔️ OathBot Core
-Discord-based productivity bot.
-Track daily focus, earn XP, and fight burnout in real-time inside your server.
+Productivity bot built for Discord
+Track daily focus, log XP, and stay accountable with ritual-based check-ins.
 
-💡 Why I'm Here
-I’m not a startup.
-I’m a one-man forge — building the tools I wish I had when I was broke, lost, and burned out.
-If they help you too? Even better.
+🧭 Why I'm Here
+I'm not here to impress. I'm here to survive.
+Every tool I ship solves a real pain I’ve lived through.
+No fluff. No startup noise. Just code forged under pressure.
 
-“Built from burnout. Forged for battle.”
+Built from burnout. Forged for battle.
 
-📫 Connect with Me
-🌐 Live Tools + Site
+📫 Connect With Me
+🌐 Live Tools and Site
 
-🧰 Fiverr – React Site Builds
+⚒️ Fiverr – React Sites That Hit Hard
 
-🪓 Gumroad – Free + Paid Tools
+📦 Gumroad – Free and Paid Tools
 
 🧠 X Feed – Behind the Builds
 
-⚠️ This isn’t a GitHub profile.
-It’s the aftermath of a man who kept building.
+⚠️ This repo isn’t a resume
+It’s what survival looks like when you don’t quit
