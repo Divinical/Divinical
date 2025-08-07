@@ -1,26 +1,42 @@
-👋 Welcome to ForgeHeart
-I’m Ben. Builder. Survivor. One-man forge.
-Every repo here was built fast, built raw, and built to outlast the fire.
+👋 Welcome to ForgeHeart  
+I’m Ben. Solo founder. Survival builder.  
+Every repo here exists because nothing else worked when I needed it most.
 
-🔧 What I'm Building
-🧮 BurnRate
-Track your survival runway in minutes
-A solo finance tool for founders without fallback. Enter your numbers, get clarity, act before it's too late.
+---
 
-🧠 ForgeBoard (in development)
-Chaos-to-clarity OS for scattered minds
-Capture thoughts as sparks. Drag, stack, burn, or freeze them. Designed for creators in the fog.
+🛠️ Active Projects
 
-⚔️ OathBot Core
-Productivity bot built for Discord
-Track daily focus, log XP, and stay accountable with ritual-based check-ins.
+🕵️‍♂️ **ForgeRank** *(building now)*  
+Chrome extension that auto-detects backlinks as you browse  
+Anchor text, timestamps, keywords — logged live in a shelf UI. Free version is generous. Pro won’t break you.
 
-🧭 Why I'm Here
-I'm not here to impress. I'm here to survive.
-Every tool I ship solves a real pain I’ve lived through.
-No fluff. No startup noise. Just code forged under pressure.
+🧠 **ForgeBoard** *(live)*  
+Bug-tracking meets ritual  
+Burn, freeze, or stack your chaos. Built for solo devs who ship through the fog.  
+Try it → [forgeheart.run/tools/forgeboard](https://forgeheart.run/tools/forgeboard)
 
-Built from burnout. Forged for battle.
+🧱 **ForgeHeartHQ** *(in development)*  
+Desktop assistant that listens, remembers, and obeys  
+Voice-activated commands, local AI models. A personal ops system disguised as a tool.
 
-⚠️ This repo isn’t a resume
+🛰 **Tech Discovery Dashboard**  
+Experimental dashboard that pulls high-signal news and tool launches  
+Built to fuel ideas and spot early trends. May evolve into a public utility, or added into ForgeHeartHQ. Maybe not.
+
+🧹 **StackBurn** *(WIP)*  
+Declutter engine for digital bloat  
+Identifies duplicate files, ghost docs, and archive rot. For solo devs drowning in old projects.
+
+---
+
+🧭 Why I'm Here  
+Not to impress. To outlast.  
+These tools weren’t dreamed up — they were clawed into existence.  
+They run smooth on bad days. They don’t beg for attention. They just work.
+
+No hype. No cofounder. Just a forge, still burning.
+
+---
+
+⚠️ This isn’t a portfolio  
 It’s what survival looks like when you don’t quit
