@@ -24,7 +24,8 @@ Voice-activated commands, local AI models. A personal ops system disguised as a 
 
 ---
 
-**Why I'm Here**
+**Why I'm Here** 
+
 To build, connect, and grow. Together.
 These projects aren’t just tools, they’re experiments in community and self-improvement.
 Every repo here is a step toward creating spaces where indie devs, founders, and learners can support each other.
