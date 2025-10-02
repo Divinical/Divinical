@@ -1,10 +1,9 @@
-👋 Welcome to ForgeHeart  
-I’m Ben. Solo founder. Survival builder.  
+I’m Ben. Dad. Founder. Survival builder.  
 Every repo here exists because nothing else worked when I needed it most.
 
 ---
 
-🛠️ Active Projects
+Active Projects
 
 **Sprynge** *(in testing)*
 Waitlist open for a new help & support platform for creators.
