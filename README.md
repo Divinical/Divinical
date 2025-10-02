@@ -1,4 +1,5 @@
-I’m Ben. Dad. Founder. Survival builder.  
+**I’m Ben.**
+Dad. Founder. Survival builder.  
 Every repo here exists because nothing else worked when I needed it most.
 
 ---
